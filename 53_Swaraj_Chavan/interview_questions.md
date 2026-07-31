@@ -550,4 +550,5 @@ The DOM is an object-oriented tree representation of a webpage's HTML structure 
 - **Asynchronous HTTP Fetch / Axios Requests:** The JS frontend sends non-blocking `POST` requests containing user input (or `FormData` binary image uploads) to backend REST API endpoints (`FastAPI`/`Flask`).
 - **UI State Management:** Display loading spinners or skeleton loaders while awaiting response promises.
 - **Real-Time Streaming:** For LLM applications, WebSockets or Server-Sent Events (SSE) stream text tokens to the frontend in real time as they generate, maintaining responsive user interactions.
+
 ---
