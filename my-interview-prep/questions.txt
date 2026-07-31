@@ -1,0 +1,64 @@
+Part 1: Python Basics & Core concept
+ 
+1. What are variables in Python, and how do you declare them?
+2. What is the difference between a list and a tuple in Python?
+3. How do you add an item to the end of a list in Python?
+4. What is the difference between the "append()" and "extend()" methods for lists?
+5. How do you create a dictionary in Python, and how do you access its values?
+6. What is the purpose of the "len()" function in Python?
+7. Explain the difference between single equal "=" and double equal "==" in Python.
+8. How do conditional statements (if, elif, else) work in Python?
+9. What is the difference between a "for" loop and a "while" loop?
+10. How do you define a function in Python, and how do you call it?
+11. What does the "return" keyword do inside a Python function?
+12. What are Python comments, and how do you write single-line and multi-line comments?
+13. How do you convert a string to an integer in Python?
+14. What is string slicing? Give a quick example.
+15. What are the logical operators (and, or, not) used for in Python?
+
+Part 2: Object-Oriented Programming & Logic 
+
+16. What is Object-Oriented Programming (OOP), and why do we use it?
+17. What is a Class and what is an Object in Python? Provide an example.
+18. What is the purpose of the "__init__" method in a Python class?
+19. What does the "self" keyword represent inside a class method?
+20. What is Inheritance in OOP, and how do you make a child class in Python?
+21. What is Polymorphism? How can two different classes have the same method name?
+22. What is Encapsulation, and how do you protect variables inside a Python class?
+23. What is a class method, and how does it differ from a standard instance method?
+24. How do you override a parent class method inside a child class?
+25. What is the difference between local variables and global variables inside Python scripts?
+
+Part 3: Intermediate Python Concepts 
+
+26. What is the difference between "is" and "==" when comparing objects in Python?
+27. What are list comprehensions, and how do they make your code cleaner?
+28. How do you handle errors or exceptions in Python using try-except blocks?
+29. What is the purpose of the "finally" block in exception handling?
+30. How do you open, read, and close a text file using Python?
+31. Why is it recommended to use the "with" statement when opening files?
+32. What are lambda functions, and when should you use them?
+33. What is a Python module, and how do you import it into your code?
+34. What is the difference between a shallow copy and a deep copy of a list?
+35. How can you remove duplicate items from a Python list easily?
+
+Part 4: Basic Data Structures & Databases 
+
+36. What is the difference between a stack and a queue data structure?
+37. What is an Array (or List in Python), and what is its main limitation?
+38. What is a String? Are strings mutable or immutable in Python?
+39. What is a Database, and why do software engineers use them instead of text files?
+40. What is the difference between a Relational (SQL) and a Non-Relational (NoSQL) database?
+41. What is a Primary Key in a database table?
+42. What are the four main operations of CRUD in database management?
+43. What is an API, and what is its primary purpose in software development?
+
+Part 5: Software Development tools & Practices 
+
+44. What is Git, and why do software engineering teams use it?
+45. What is the difference between "git add" and "git commit"?
+46. What does the command "git push" do?
+47. What is a Pull Request (PR), and why are you creating one for this assignment?
+48. Why do Python developers use virtual environments (like venv) for their projects?
+49. What is code debugging, and what tools or methods do you use to find errors?
+50. What is the purpose of testing your code before deploying it to users?
