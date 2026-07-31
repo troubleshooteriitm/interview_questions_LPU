@@ -37,10 +37,9 @@ set). Immutable objects cannot (tuple, string, int).
 **Answer:** Elements may be skipped or processed multiple times because
 the iterator is affected by changes to the list.
 
-## 8. Why is NumPy faster than normal Python lists?
+## 8. What is vectorization in NumPy and why is it faster than Python loops?
 
-**Answer:** It uses contiguous memory, vectorized operations, and
-optimized C implementations.
+**Answer:** Vectorization lets you apply operations to entire arrays at once. NumPy executes these operations in optimized compiled code (C/Fortran) with fewer Python-level loop overheads.
 
 ## 9. What is list comprehension and why is it preferred?
 
