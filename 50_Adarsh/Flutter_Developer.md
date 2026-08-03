@@ -1,57 +1,106 @@
-1. Flutter Basics (1–10)
-What is Flutter?
-What is the difference between Flutter and Dart?
-Why does Flutter provide better performance than other cross-platform frameworks?
-Explain the Flutter architecture.
-What are widgets in Flutter?
-What is the difference between StatelessWidget and StatefulWidget?
-What is the widget tree?
-What is the purpose of the BuildContext?
-Explain the Flutter rendering process.
-What is the difference between Hot Reload, Hot Restart, and Full Restart?
-2. Dart Programming (11–20)
-What are the features of Dart?
-Explain null safety in Dart.
-What is the difference between final and const?
-What is the difference between var, dynamic, and Object?
-Explain Futures and async programming.
-What is the difference between Future and Stream?
-What are mixins in Dart?
-What are extensions in Dart?
-What are named and optional parameters?
-Explain exception handling in Dart.
-3. Widgets & UI (21–30)
-What is the difference between Container, SizedBox, and Padding?
-Explain the difference between Column, Row, Stack, and Wrap.
-What are Expanded and Flexible?
-What is the difference between ListView.builder and ListView?
-Explain GridView.
-What is the purpose of MediaQuery?
-How do you make a Flutter app responsive?
-What is the difference between Navigator.push() and Navigator.pushReplacement()?
-Explain named routes.
-How do you create custom widgets?
-4. State Management (31–38)
-What is state management?
-Explain setState().
-What are the limitations of setState()?
-Compare Provider, Riverpod, Bloc, GetX, and Cubit.
-What is Provider?
-What is Bloc architecture?
-What is Riverpod and why is it better than Provider?
-When would you use GetX?
-5. Backend & APIs (39–44)
-How do you call REST APIs in Flutter?
-What packages do you use for networking?
-What is JSON serialization?
-Explain the difference between http and dio.
+📱 Android Basics (1–10)
+What is Android?
+
+Explain the Android architecture.
+
+What is an Activity?
+
+What is a Fragment?
+
+What is the difference between Activity and Fragment?
+
+What is an Intent?
+
+Difference between Explicit and Implicit Intent?
+
+What is the AndroidManifest.xml?
+
+What is an APK?
+
+What is Gradle in Android?
+
+💻 Java/Kotlin & Programming (11–20)
+Why is Kotlin preferred over Java for Android?
+
+What are Coroutines in Kotlin?
+
+Difference between var and val in Kotlin?
+
+What is a data class in Kotlin?
+
+Difference between == and === in Kotlin?
+
+Explain Null Safety in Kotlin.
+
+What is a sealed class?
+
+Difference between suspend and async in Kotlin?
+
+Difference between List and Array in Kotlin?
+
+Explain exception handling in Kotlin.
+
+🎨 UI & Layouts (21–30)
+What is a View in Android?
+
+Difference between LinearLayout and RelativeLayout?
+
+What is ConstraintLayout?
+
+Difference between RecyclerView and ListView?
+
+What is an Adapter?
+
+What is ViewBinding?
+
+What is DataBinding?
+
+Difference between dp, sp, and px?
+
+What is the purpose of styles and themes?
+
+What is Jetpack Compose?
+
+🔄 State & Lifecycle (31–38)
+Explain Activity lifecycle.
+
+Explain Fragment lifecycle.
+
+What is ViewModel in Android?
+
+What is LiveData?
+
+Difference between LiveData and StateFlow?
+
+What is Room Database?
+
+Difference between SharedPreferences and Room?
+
+Difference between onSaveInstanceState and ViewModel?
+
+🌐 Networking & APIs (39–44)
+How do you call REST APIs in Android?
+
+What is Retrofit?
+
+Difference between Retrofit and Volley?
+
+What is JSON parsing in Android?
+
 How do you handle API errors?
-How do you upload files using Flutter?
-6. Database & Storage (45–48)
-What is the difference between SharedPreferences, Hive, and SQLite?
-How do you store user login information securely?
-Explain local database options available in Flutter.
-What is Secure Storage?
-7. Advanced Flutter (49–50)
-What techniques do you use to optimize Flutter app performance?
-Describe a Flutter project you built and explain the architecture, state management, API integration, and challenges you faced.
+
+What is OAuth in Android?
+
+💾 Storage & Security (45–48)
+Difference between Internal and External Storage?
+
+What is EncryptedSharedPreferences?
+
+What is WorkManager?
+
+How do you store sensitive data securely?
+
+🚀 Advanced Android (49–50)
+What techniques do you use to optimize Android app performance?
+
+Describe an Android project you built and explain its architecture, state management, API integration, and challenges.
